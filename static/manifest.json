@@ -1,0 +1,16 @@
+{
+  "name": "kekule-svelte documentation",
+  "short_name": "kekule-svelte",
+  "description": "Svelte 5 chemistry components for Kekule.js — render and edit organic compound structures.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://kekule-svelte.pages.dev/</loc><priority>1.0</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/install</loc><priority>0.8</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/quickstart</loc><priority>0.8</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/viewer</loc><priority>0.8</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/editor</loc><priority>0.8</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/reaction</loc><priority>0.8</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/load-kekule</loc><priority>0.6</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/properties</loc><priority>0.6</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/lipinski</loc><priority>0.6</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/docs/format-formula</loc><priority>0.6</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/basic</loc><priority>0.7</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/slots</loc><priority>0.7</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/editor</loc><priority>0.7</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/reaction</loc><priority>0.7</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/properties</loc><priority>0.7</priority></url>
+  <url><loc>https://kekule-svelte.pages.dev/examples/export</loc><priority>0.7</priority></url>
+</urlset>
