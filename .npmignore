@@ -1,0 +1,16 @@
+# Development
+.git/
+.github/
+
+# Package manager
+bun.lock
+
+# Editor and IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
