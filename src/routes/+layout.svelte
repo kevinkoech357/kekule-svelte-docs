@@ -44,10 +44,6 @@
     const saved = localStorage.getItem('theme')
     if (saved) {
       theme = saved
-      document.documentElement.setAttribute('data-theme', theme)
-    } else {
-      theme = 'dark'
-      document.documentElement.setAttribute('data-theme', 'dark')
     }
   })
 
