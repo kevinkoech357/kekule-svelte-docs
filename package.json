@@ -10,8 +10,8 @@
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "cookie": "0.7.0",
-    "kekule-svelte": "^0.1.0"
+    "cookie": "1.1.1",
+    "kekule-svelte": "^0.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -25,6 +25,6 @@
     "svelte-check": "^4.4.6",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.58.2",
-    "vite": "^8.0.8"
+    "vite": "^8.0.9"
   }
 }
